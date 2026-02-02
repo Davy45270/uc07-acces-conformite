@@ -1,2 +1,3 @@
-# uc07-acces-conformite
-UC07 Accès &amp; conformité
+# UC07 Accès & conformité
+
+Use case repo for UC07 Accès & conformité.
